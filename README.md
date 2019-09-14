@@ -1,12 +1,15 @@
-# Homefiniti Tracking GTM Tag Template
+# Homefiniti Analytics GTM Template
 ### Version 1.0
-### Release Date: Aug 2 02019
+### Release Date: 02019.09.13
 
-## What
-This GTM tag template makes activating Homefinti's tracking a breeze. Get powerful business intelligence. Fast.
+## The Homefiniti Analytics Google Tag Manager Template
+This Google Tag Manager tag template makes activating Homefinti Analytics a breeze. Get powerful business intelligence. Fast.
 
-## What
-[Homefiniti](https://homefiniti.com) is the most valuable member of a home builder's marketing team -- A complete digital marketing and content management solution built exclusively for home builders. 
+## What is Homefiniti Analytics?
+Homefiniti Analytics turns home builder website activity into actionable market intelligence. Move beyond measuring "Time on Site" and let Homefiniti Analytics report on how consumers are interacting with your listings. Learn about sweet spots in your pricing, peaks in activity and interest for a region or zip code, and much more. 
+
+## What is Homefiniti?
+[Homefiniti](https://homefiniti.com) is the MVP of a home builder's marketing team -- A complete digital marketing platform and content management solution built exclusively for home builders. 
 
 ## Support
 Homefiniti is engineered by the smart people at [ONeil Interactive](https://oneilinteractive.com/contact/).  

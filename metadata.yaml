@@ -1,0 +1,5 @@
+homepage: ​"www.homefiniti.com"​,
+documentation: ​"https://github.com/oneilinteractive/hftracking-gtm-tag/blob/master/README.md"​,
+versions:
+    - ​sha: 
+​   changeNotes: ​Initial release.

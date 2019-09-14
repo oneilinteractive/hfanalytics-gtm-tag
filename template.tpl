@@ -1,8 +1,8 @@
 ﻿___INFO___
 
 {
-  "displayName": "Homefiniti Tracking",
-  "description": "This tracking code powers Homefiniti's advanced reporting for home builders.",
+  "displayName": "Homefiniti Analytics",
+  "description": "The Homefiniti Analytics tag provides home builders with valuable insights. It turns website activity into reports on popular regions, price points, home styles, and more.",
   "securityGroups": [],
   "id": "cvt_temp_public_id",
   "type": "TAG",
@@ -22,16 +22,16 @@ ___TEMPLATE_PARAMETERS___
 
 [
   {
+    "notSetText": "⚠️Add your client id",
     "valueValidators": [
       {
         "type": "NUMBER"
       }
     ],
-    "displayName": "Homefiniti Client ID",
+    "displayName": "Homefiniti client id",
     "simpleValueType": true,
     "name": "homefinitiClientId",
-    "type": "TEXT",
-    "notSetText": "⚠️Add your Client Id"
+    "type": "TEXT"
   }
 ]
 
@@ -85,4 +85,4 @@ sendPixel(url, data.gtmOnSuccess, data.gtmOnFailure);
 
 ___NOTES___
 
-Created on 8/2/2019, 12:38:44 AM
+Created on 9/13/2019, 7:55:55 PM
