@@ -1,6 +1,6 @@
 # Homefiniti Analytics GTM Template
-### Version 1.0
-### Release Date: 02019.09.13
+### Version 1.1.1
+### Release Date: 02019.09.27
 
 ## The Homefiniti Analytics Google Tag Manager Template
 This Google Tag Manager tag template makes activating Homefinti Analytics a breeze. Get powerful business intelligence. Fast.
